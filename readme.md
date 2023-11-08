@@ -1,2 +1,3 @@
 ### Proyecto Wordpress de José María Romero Ruiz
-Cambio de prueba2
+
+Blog para todo lo que se me ocurra.
