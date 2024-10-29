@@ -10,13 +10,16 @@ define( 'DB_USER', 'db-user' );
 define( 'DB_PASSWORD', 'db-password' );
 
 /** Database hostname */
-define( 'DB_HOST', '127.0.0.1' );
+define( 'DB_HOST', 'db' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
+
+define('WP_HOME', 'http://localhost');
+define('WP_SITEURL', 'http://localhost');
 
 /**#@+
  * Authentication unique keys and salts.
